@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
-
+apply plugin: 'kotlin-kapt'
 android {
     compileSdkVersion 29
 
@@ -23,6 +23,12 @@ android {
         }
     }
 
+    dataBinding {
+        enabled = true
+    }
+    viewBinding {
+        enabled = true
+    }
 }
 
 dependencies {
@@ -35,5 +41,8 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
     implementation 'com.jakewharton.timber:timber:4.7.1'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    implementation "androidx.constraintlayout:constraintlayout:2.0.0-beta6"
+
 
 }

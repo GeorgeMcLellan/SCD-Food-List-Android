@@ -5,11 +5,14 @@ enum class FoodGroup {
     Dairy,
     FatsAndOils,
     Grains,
+    Starch,
     NutsAndSeeds,
     Legumes,
     Vegetables,
     Fruit,
     Spices,
     Sweeteners,
-    Miscellaneous
+    Herbs,
+    Miscellaneous,
+    Drinks
 }

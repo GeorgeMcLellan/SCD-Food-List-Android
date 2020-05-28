@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <data>
+        <import type="com.development.georgemcl.eliminationdietapp.utils.ExtensionsKt"/>
+        <import type="android.view.View" />
+        <variable
+            name="food"
+            type="com.development.georgemcl.eliminationdietapp.objects.Food" />
+    </data>
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@drawable/rounded_corner_shape"
+        foodBackgroundColor="@{food.allowed}">
+        <TextView
+            android:id="@+id/recycler_food_name_text_view"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toStartOf="@id/recycler_food_info_image_view"
+            android:layout_marginEnd="5dp"
+            android:textSize="18sp"
+            android:text="@{food.name}"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@id/recycler_food_name_text_view"
+            android:text="@{ExtensionsKt.foodGroupFriendlyName(food.foodGroup)}"
+            />
+        <ImageView
+            android:id="@+id/recycler_food_info_image_view"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:src="@drawable/outline_info_black_24"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="10dp"
+            android:tint="@color/grey"
+            android:contentDescription="@string/more_info_icon_content_description"
+            android:visibility="@{food.description.empty ? View.INVISIBLE : View.VISIBLE}"/>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
