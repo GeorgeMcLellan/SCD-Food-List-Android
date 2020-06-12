@@ -9,10 +9,13 @@ enum class FoodGroup {
     NutsAndSeeds,
     Legumes,
     Vegetables,
+    NightshadeVegetables,
     Fruit,
     Spices,
+    Sauces,
     Sweeteners,
     Herbs,
     Miscellaneous,
-    Drinks
+    Drinks,
+    Additives
 }

@@ -9,4 +9,10 @@
     <color name="greenTransparent">#2200FF00</color>
     <color name="yellowTransparent">#22FFFF00</color>
     <color name="redTransparent">#22FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="red">#FF0000</color>
+    <color name="greenTextColor">#2d912d</color>
+    <color name="yellowTextColor">#c9c922</color>
+    <color name="redTextColor">#b51919</color>
 </resources>

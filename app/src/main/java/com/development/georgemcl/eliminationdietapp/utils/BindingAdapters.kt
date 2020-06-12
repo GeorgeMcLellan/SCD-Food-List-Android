@@ -2,6 +2,7 @@ package com.development.georgemcl.eliminationdietapp.utils
 
 import android.content.res.ColorStateList
 import android.view.View
+import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.databinding.BindingAdapter
 import com.development.georgemcl.eliminationdietapp.R
@@ -16,5 +17,15 @@ object BindingAdapters {
             FoodAllowed.Warning -> R.color.yellowTransparent
             FoodAllowed.Avoid -> R.color.redTransparent
         }))
+    }
+
+    @JvmStatic
+    @BindingAdapter("allowedTextColor")
+    fun setAllowedTextColor(view: TextView, allowed: FoodAllowed) {
+        view.setTextColor(ColorStateList.valueOf(ContextCompat.getColor(view.context, when(allowed) {
+            FoodAllowed.Allowed -> R.color.greenTextColor
+            FoodAllowed.Warning -> R.color.yellowTextColor
+            FoodAllowed.Avoid -> R.color.redTextColor
+        })))
     }
 }

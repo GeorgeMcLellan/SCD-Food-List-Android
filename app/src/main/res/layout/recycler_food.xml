@@ -7,6 +7,9 @@
         <variable
             name="food"
             type="com.development.georgemcl.eliminationdietapp.objects.Food" />
+        <variable
+            name="listener"
+            type="com.development.georgemcl.eliminationdietapp.FoodSelectedListener" />
     </data>
     <androidx.constraintlayout.widget.ConstraintLayout
         android:orientation="vertical"
@@ -15,6 +18,7 @@
         android:padding="5dp"
         android:layout_margin="5dp"
         android:background="@drawable/rounded_corner_shape"
+        android:onClick="@{() -> listener.foodSelected(food)}"
         foodBackgroundColor="@{food.allowed}">
         <TextView
             android:id="@+id/recycler_food_name_text_view"

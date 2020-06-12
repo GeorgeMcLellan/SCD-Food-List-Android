@@ -12,12 +12,15 @@ fun FoodGroup.friendlyName(): String {
         FoodGroup.Starch -> "Starches"
         FoodGroup.NutsAndSeeds -> "Nuts & Seeds"
         FoodGroup.Vegetables -> "Vegetables"
+        FoodGroup.NightshadeVegetables -> "Nightshade Vegetables"
         FoodGroup.Fruit -> "Fruits"
         FoodGroup.Spices -> "Spices"
         FoodGroup.Sweeteners -> "Sweeteners"
         FoodGroup.Herbs -> "Herbs"
         FoodGroup.Miscellaneous -> "Miscellaneous"
         FoodGroup.Drinks -> "Drinks"
+        FoodGroup.Additives -> "Additives"
+        FoodGroup.Sauces -> "Sauces"
     }
 }
 
