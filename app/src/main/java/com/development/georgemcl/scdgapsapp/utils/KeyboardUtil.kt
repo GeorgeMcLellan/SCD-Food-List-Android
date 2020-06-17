@@ -1,4 +1,4 @@
-package com.development.georgemcl.eliminationdietapp.utils
+package com.development.georgemcl.scdgapsapp.utils
 
 import android.app.Activity
 import android.view.View

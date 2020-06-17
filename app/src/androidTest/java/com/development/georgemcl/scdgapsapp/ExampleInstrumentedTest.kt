@@ -1,4 +1,4 @@
-package com.development.georgemcl.eliminationdietapp
+package com.development.georgemcl.scdgapsapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

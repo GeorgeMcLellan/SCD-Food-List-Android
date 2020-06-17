@@ -1,22 +1,18 @@
-package com.development.georgemcl.eliminationdietapp
+package com.development.georgemcl.scdgapsapp
 
-import android.animation.LayoutTransition
-import android.app.AlertDialog
 import android.app.Dialog
 import android.os.Bundle
-import android.os.PersistableBundle
 import android.view.LayoutInflater
 import android.view.Menu
-import android.widget.CheckBox
 import android.widget.SearchView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.development.georgemcl.eliminationdietapp.databinding.ActivityMainBinding
-import com.development.georgemcl.eliminationdietapp.databinding.DialogViewFoodInfoBinding
-import com.development.georgemcl.eliminationdietapp.objects.Food
-import com.development.georgemcl.eliminationdietapp.objects.FoodList
-import com.development.georgemcl.eliminationdietapp.utils.KeyboardUtil
+import com.development.georgemcl.scdgapsapp.databinding.ActivityMainBinding
+import com.development.georgemcl.scdgapsapp.databinding.DialogViewFoodInfoBinding
+import com.development.georgemcl.scdgapsapp.objects.Food
+import com.development.georgemcl.scdgapsapp.objects.FoodList
+import com.development.georgemcl.scdgapsapp.utils.KeyboardUtil
 import timber.log.Timber
 
 class MainActivity: AppCompatActivity(), FoodSelectedListener {
@@ -37,8 +33,6 @@ class MainActivity: AppCompatActivity(), FoodSelectedListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        Timber.i("oncreate")
-
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         syncRecyclerViewAdapter()
@@ -46,8 +40,6 @@ class MainActivity: AppCompatActivity(), FoodSelectedListener {
             adapter = foodsAdapter
             layoutManager = LinearLayoutManager(context)
         }
-
-
 
 //        binding.mainToolbarSearch.apply {
 //            layoutTransition.enableTransitionType(LayoutTransition.CHANGING)
@@ -77,7 +69,7 @@ class MainActivity: AppCompatActivity(), FoodSelectedListener {
         searchView.apply {
             setOnQueryTextListener(object: SearchView.OnQueryTextListener {
                 override fun onQueryTextSubmit(query: String?): Boolean {
-                    KeyboardUtil.hideSoftKeyboard(this@MainActivity)
+                    binding.mainParentLayout.requestFocus()
                     return false
                 }
 
@@ -96,21 +88,16 @@ class MainActivity: AppCompatActivity(), FoodSelectedListener {
     }
 
     override fun foodSelected(food: Food) {
-        if (food.description.isNotEmpty()) {
-            val dialogBinding = DataBindingUtil.inflate<DialogViewFoodInfoBinding>(
-                LayoutInflater.from(this),
-                R.layout.dialog_view_food_info,
-                null,
-                false
-            )
-            dialogBinding.food = food
-//            val createListDialogLayout = layoutInflater.inflate(R.layout.dialog_add_category_list, null)
-//            val listNameEditText = createListDialogLayout.findViewById<TextInputEditText>(R.id.dialog_add_list_name_input_edit_text)
-//            val privateCheckBox = createListDialogLayout.findViewById<CheckBox>(R.id.dialog_add_list_private_checkbox)
-            val dialog = Dialog(this)
-            dialog.setContentView(dialogBinding.root)
-            dialog.show()
-        }
+        val dialogBinding = DataBindingUtil.inflate<DialogViewFoodInfoBinding>(
+            LayoutInflater.from(this),
+            R.layout.dialog_view_food_info,
+            null,
+            false
+        )
+        dialogBinding.food = food
+        val dialog = Dialog(this)
+        dialog.setContentView(dialogBinding.root)
+        dialog.show()
     }
     private fun syncRecyclerViewAdapter() {
         foodsAdapter.submitList(filteredFoods)

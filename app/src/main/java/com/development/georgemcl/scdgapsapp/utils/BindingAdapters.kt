@@ -1,12 +1,12 @@
-package com.development.georgemcl.eliminationdietapp.utils
+package com.development.georgemcl.scdgapsapp.utils
 
 import android.content.res.ColorStateList
 import android.view.View
 import android.widget.TextView
 import androidx.core.content.ContextCompat
 import androidx.databinding.BindingAdapter
-import com.development.georgemcl.eliminationdietapp.R
-import com.development.georgemcl.eliminationdietapp.objects.FoodAllowed
+import com.development.georgemcl.scdgapsapp.R
+import com.development.georgemcl.scdgapsapp.objects.FoodAllowed
 
 object BindingAdapters {
     @JvmStatic

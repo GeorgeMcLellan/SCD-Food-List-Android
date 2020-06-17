@@ -3,11 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <data>
-        <import type="com.development.georgemcl.eliminationdietapp.utils.ExtensionsKt"/>
+        <import type="com.development.georgemcl.scdgapsapp.utils.ExtensionsKt"/>
         <import type="android.view.View" />
         <variable
             name="food"
-            type="com.development.georgemcl.eliminationdietapp.objects.Food" />
+            type="com.development.georgemcl.scdgapsapp.objects.Food" />
     </data>
 
     <LinearLayout

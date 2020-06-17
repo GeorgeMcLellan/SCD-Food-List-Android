@@ -1,4 +1,4 @@
-package com.development.georgemcl.eliminationdietapp.objects
+package com.development.georgemcl.scdgapsapp.objects
 
 data class Food(
     val name: String,

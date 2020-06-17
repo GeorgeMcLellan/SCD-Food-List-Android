@@ -1,4 +1,4 @@
-package com.development.georgemcl.eliminationdietapp.objects
+package com.development.georgemcl.scdgapsapp.objects
 
 import android.app.Application
 import timber.log.Timber

@@ -1,4 +1,4 @@
-package com.development.georgemcl.eliminationdietapp
+package com.development.georgemcl.scdgapsapp
 
 import org.junit.Test
 

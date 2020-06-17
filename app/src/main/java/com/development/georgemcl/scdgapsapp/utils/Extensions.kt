@@ -1,6 +1,6 @@
-package com.development.georgemcl.eliminationdietapp.utils
+package com.development.georgemcl.scdgapsapp.utils
 
-import com.development.georgemcl.eliminationdietapp.objects.FoodGroup
+import com.development.georgemcl.scdgapsapp.objects.FoodGroup
 
 fun FoodGroup.friendlyName(): String {
     return when(this) {

@@ -1,12 +1,12 @@
-package com.development.georgemcl.eliminationdietapp
+package com.development.georgemcl.scdgapsapp
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.DiffUtil
 import androidx.recyclerview.widget.ListAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.development.georgemcl.eliminationdietapp.databinding.RecyclerFoodBinding
-import com.development.georgemcl.eliminationdietapp.objects.Food
+import com.development.georgemcl.scdgapsapp.databinding.RecyclerFoodBinding
+import com.development.georgemcl.scdgapsapp.objects.Food
 
 class FoodsRecyclerViewAdapter(
     private val listener: FoodSelectedListener)
