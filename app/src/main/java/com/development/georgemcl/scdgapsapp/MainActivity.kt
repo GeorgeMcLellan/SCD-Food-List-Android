@@ -67,6 +67,11 @@ class MainActivity: AppCompatActivity(), FoodSelectedListener {
         menuInflater.inflate(R.menu.menu_main, menu)
         val searchView = menu?.findItem(R.id.menu_main_search_view)?.actionView as SearchView
         searchView.apply {
+            setOnSearchClickListener {
+                Timber.i("click")
+                supportActionBar?.setDisplayShowTitleEnabled(false)
+
+            }
             setOnQueryTextListener(object: SearchView.OnQueryTextListener {
                 override fun onQueryTextSubmit(query: String?): Boolean {
                     binding.mainParentLayout.requestFocus()
@@ -80,6 +85,7 @@ class MainActivity: AppCompatActivity(), FoodSelectedListener {
                 }
             })
             setOnCloseListener {
+                supportActionBar?.setDisplayShowTitleEnabled(true)
                 KeyboardUtil.hideSoftKeyboard(this@MainActivity)
                 false
             }

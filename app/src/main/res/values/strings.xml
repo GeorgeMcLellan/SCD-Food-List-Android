@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">SCD/GAPS Food List</string>
-    <string name="main_activity_title">SCD/GAPS Foods List</string>
+    <string name="main_activity_title">SCD/GAPS Food List</string>
     <string name="more_info_icon_content_description">More info icon</string>
 </resources>
