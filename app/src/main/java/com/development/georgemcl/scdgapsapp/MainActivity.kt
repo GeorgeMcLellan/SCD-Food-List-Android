@@ -40,11 +40,11 @@ class MainActivity: AppCompatActivity(), FoodSelectedListener {
             adapter = foodsAdapter
             layoutManager = LinearLayoutManager(context)
         }
-        val toprint = foods.map { "${it.name} | ${it.allowed} ${if (it.description.isNotEmpty()) "|" else ""} ${it.description}"  }
-        for (food in toprint) {
-            Timber.d(food)
-
-        }
+//        val toprint = foods.map { "${it.name} | ${it.allowed} ${if (it.description.isNotEmpty()) "|" else ""} ${it.description}"  }
+//        for (food in toprint) {
+//            Timber.d(food)
+//
+//        }
 
 //        binding.mainToolbarSearch.apply {
 //            layoutTransition.enableTransitionType(LayoutTransition.CHANGING)
@@ -52,7 +52,7 @@ class MainActivity: AppCompatActivity(), FoodSelectedListener {
 //                override fun onQueryTextSubmit(query: String?): Boolean {
 //                    KeyboardUtil.hideSoftKeyboard(this@MainActivity)
 //                    return false
-//                }
+//                }g
 //
 //                override fun onQueryTextChange(newText: String?): Boolean {
 //                    filterText = newText ?: ""

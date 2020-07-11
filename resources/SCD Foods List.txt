@@ -1,34 +1,35 @@
-Agar-agar (gelatin made from seaweed) | Illegal | A thickener, among other things.
+Acorn squash | Legal  
+Agar-agar | Illegal | Contains polysaccharides.  See wikipedia
 Agave syrup | Illegal  
-Algae | Illegal | Aggravates an already disturbed immune system.
+Algae | Illegal | We do not use algae (Spirulina) because IBD involves the immune system and algae can aggravate an already disturbed immune system.
 Allspice | Legal | As long as you're just using Allspice as a cooking spice, it's allowed. Don't use the oil.
-Almond butter | Legal | Ensure no added sugar
-Almond milk, home made | Legal | May be tried after being on diet for 6 months.
+Almond butter | Legal | Almond butter with no sugar added is allowed.
+Almond milk | Legal | May be tried after being on diet for 6 months.
 Almond oil | Legal  
 Almonds | Legal | Nuts sold in mixtures are not allowed, as most are roasted with a starch coating. Nuts should only be used as nut flour, in recipes, until diarrhea has subsided.
 Aloe vera | Illegal | It contains mucilaginous polysaccharides as well as increasing the release of tumor necrosis factor which is associated with IBD inflammation and increased immune stimulation.
-Amaranth flour | Illegal | A grain substitute that contains starches.
-Anchovies | Legal | Check label
+Amaranth flour | Illegal | Amaranth is a grain substitute, contains starches and so is not allowed.
+Anchovies | Legal  
 Apple cider | Legal | It is brown and not clear as apple juice is. It should be just straight pressed apples. It is usually pasteurized in order to kill bacteria. Cider should be diluted with water before drinking.
 Apple juice | Illegal | Apple juice usually has sugar added during processing. Apple cider is allowed. It should be brown and not clear as apple juice is. Cider should be diluted with water before drinking.
 Apples | Legal  
 Apricots | Legal  
-Arrowroot | Illegal | It is a mucilaginous herb loaded with starch.
+Arrowroot | Illegal | It is a mucilaginous herb. Mucilaginous herbs are loaded with starch. This starch is food for the pathogens that the SCD is designed to starve out.
 Artichoke (French) | Legal | They are the green artichokes that you steam, then dip the leaves in lemon butter and scrape off with your teeth. They have edible hearts and an inedible choke.
 Artichokes (Jerusalem) | Illegal | They are actually a tuber, and are not legal.
-Ascorbic acid (vitamin C) | Legal | Should be nothing but vitamin C.
+Ascorbic acid | Legal | Should be nothing but vitamin C.
 Asiago cheese | Legal | May be used occasionally.
 Asparagus | Legal | Fresh or frozen is allowed. Canned vegetables are not allowed.
-Aspartame | Illegal | SCD allows 1 aspartame sweetened drink per week when symptom free. It is a neurotoxin, so best to avoid.
+Aspartame | Illegal | When symptom free, one aspartame sweetened soft drink per week is allowed - Elaine. But see Aspartame in Knowledge Base on SCD website.
 Aspartic acid | Legal  
 Astragalus | Illegal  
-Avocado oil | Legal  
+Avocado oil | Legal | Good for mayonaise and salad dressings but might not withstand heat very well
 Avocados | Legal  
 Bacon | Warning | Smoked bacon that has been fried very crisply is allowed once per week. There are sugar-free bacons available and if you are able to find a source of sugar-free bacon, you do not have to limit your consumption to once per week. Usually the low sodium varieties do not contain sugar but check the labels carefully.
 Baker's yeast | Illegal | Saccharamyces cerevisae is baker's yeast and is illegal.
 Baking powder | Illegal | Has starch as an ingredient, (usually corn starch) and other illegals to make it rise better.
 Baking soda | Legal  
-Balsamic vinegar | Warning | It's not that balsamic vinegar is illegal, it's that what you can get in the store isn't really balsamic vinegar and most have sugar added to them so Elaine doesn't allow it. You can make your own legal substitute though see scdrecipe
+Balsamic vinegar | Warning | It's not that balsamic vinegar is illegal, it's that what you can get in the store isn't really balsamic vinegar and most have sugar added to them so Elaine doesn't allow it. You can make your own legal substitute though see scdrecipe.com
 Bananas | Legal | They must be ripe with black spots on the skin.
 Bark tea | Illegal | Bark tea (Pau d'Arco) contains steroidal saponins and is both an immune booster and a laxative.
 Barley | Illegal  
@@ -40,10 +41,9 @@ Bee pollen | Illegal | Pollen is irritating to a damaged gut. Clear, pure, paste
 Beef | Legal | Fresh and frozen are allowed as long as nothing has been added during processing; check the labels carefully.
 Beer | Illegal  
 Beets | Legal  
-Berries of all kinds | Legal  
+Berries | Legal | Berries of all kinds are legal.
 Bhindi | Illegal | No okra (bhindi) or drumsticks, since they are a mucilaginous food, they are illegal.
 Bitter gourd | Illegal  
-Black azuki bean | Illegal | Aka: black adzuki, black aduki, asuki
 Black beans | Legal | May be tried when symptom free. Dried legumes must be prepared according to the instructions in the Breaking the Vicious Cycle book.
 Black eye beans | Illegal  
 Black radish | Legal | It is very fibrous, so go slowly and be careful.
@@ -51,7 +51,7 @@ Blue cheese | Legal | May be used occasionally.
 Bok choy | Legal | Bok Choy is much like cabbage and is legal but you should not use a member of the cabbage family until you are well on your way to getting better. In other words, do not use if you still have diarrhea and gas.
 Bologna | Illegal  
 Bouillon cubes | Illegal | Bouillon cubes and instant soup bases are not permitted.
-Bourbon | Legal | Occasionally
+Bourbon | Legal | Only have it occasionally.
 Brandy | Illegal  
 Brazil nuts | Legal | Nuts sold in mixtures are not allowed, as most are roasted with a starch coating.
 Brick cheese | Legal | May be used freely.
@@ -63,8 +63,8 @@ Bulgur | Illegal
 Burdock root | Illegal | It contains inulin (FOS) and mucilage.
 Butter | Legal  
 Butter beans | Illegal  
-Buttermilk, commercial | Illegal  
-Butternut squash | Illegal  
+Buttermilk | Illegal  
+Butternut squash | Legal  
 Cabbage | Legal | You should not use a member of the cabbage family until you are well on your way to getting better. In other words, do not use if you still have diarrhea and gas.
 Camembert cheese | Legal | May be used occasionally.
 Canellini beans | Illegal  
@@ -83,19 +83,19 @@ Celeriac aka: celery root | Legal | However, you should go slow and be careful. 
 Celery | Legal  
 Cellulose (in supplements) | Legal | Cellulose in your supplements is okay and virtually impossible to avoid.
 Cellulose gum | Illegal  
-Cereals | Illegal  
-Chard (red, green, rainbow, swiss) | Legal | Similar to spinach/celery. Introduce late in diet.
+Cereals | Illegal | However for a hot cereal see SCDrecipe.com Hot cereal
+Chard | Legal | Chard (red, green, rainbow and swiss). Chard is similar to spinach/celery so it is legal. It also reminds me a bit of the cabbage family so use with caution if gas is still a problem
 Cheddar cheese | Legal | May be used freely.
 Cheese | Legal | If a cheese is not a processed cheese (manufactured) but is a cheese that has had a bacterial culture involved with its production and is aged at least 30 days.
-Cherimoya | Legal | Aka: custard apple or sharifa.
+Cherimoya | Legal | Also known as custard apple or sharifa.
 Cherries | Legal  
 Chestnut flour | Illegal  
 Chestnuts | Legal | May be tried when symptom free. However, if you buy dried chestnuts, soak them and cook them until soft.
-Chevre cheese | Illegal  
-Chewing gum | Illegal  
+Chevre | Illegal | Chevre is illegal, but you can make a close approximation by dripping goat milk yoghurt.
+Chewing gum | Illegal | Contains things like aspartame, maple or date sugar and other sugar substitutes which are illegal.
 Chia seeds | Illegal | Mucilaginous
-Chick peas | Illegal | Chickory root is not legal. In my first book, I suggested that it might be used instead of coffee beans. I have since learned that it contains large amounts of fructooligosaccharides. - Elaine
-Chickory root | Illegal  
+Chick peas | Illegal  
+Chickory root | Illegal | Chickory root is not legal. In my first book, I suggested that it might be used instead of coffee beans. I have since learned that it contains large amounts of fructooligosaccharides. - Elaine
 Chlorella | Illegal | It is a blue-green algae similar to spirulina
 Chocolate | Illegal | Dr. Haas advised not to use cocoa or chocolate and this still goes, it isn't just the sugar he was worried about.
 Cilantro | Legal  
@@ -110,14 +110,15 @@ Coffee (instant) | Illegal
 Coffee (very weak) | Legal  
 Colby cheese | Legal | May be used freely.
 Collard greens | Legal | Of the cabbage family, introduce late in diet.
+Cordials | Illegal  
 Corn | Illegal  
-Corn oil | Warning | Legal, but not recommended. Highly processed and inflammatory oil.
+Corn oil | Legal  
 Corn syrup | Illegal  
 Cornstarch | Illegal  
 Cottage cheese | Illegal  
 Courgette / zucchini | Legal  
-Cranberry juice | Legal | Knudsen’s Just Cranberry juice is allowed. Juice should be diluted with water before drinking.
-Cream | Illegal | It is illegal as it contains lactose. Cream can be added to milk and then fermented to make SCD™24hr yoghurt as the lactsose will be used up in the fermentation. Cream has less lactose than milk and the more fat it contains the less lactose it has.
+Cranberry juice | Legal | We use Knudsen’s Just Cranberry juice, as it has been checked out and does not have sugar added. It can be found in most health food stores. Juice should be diluted with water before drinking. Since this is pure cranberry juice it is very tart, you may sweeten it with saccharine or honey or dilute it with legal apple cider instead of water.
+Cream | Illegal | It is illegal as it contains lactose. Cream can be added to milk and then fermented to make SCD24hr yoghurt as the lactsose will be used up in the fermentation. Cream has less lactose than milk and the more fat it contains the less lactose it has.
 Cream cheese | Illegal  
 Cream of tartar | Illegal  
 Croscarmellose sodium | Illegal  
@@ -144,12 +145,12 @@ Faba beans | Illegal
 Fenugreek | Illegal  
 Feta cheese | Warning | Feta may be used after about 6 months of improvement. But used only in small amounts.
 Figs | Legal | Figs unpolluted by chemicals or additives are fine, however I find them, especially in dried form; to be a laxative. They also contain hundreds of tiny hard seeds which can be hard on the intestines. I'm still unable to tolerate them after almost a year on the SCD. If I were you I'd leave figs until you've been symptom free for at least a while. - Rob B
-Filberts aka: hazelnuts | Legal | Nuts sold in mixtures are not allowed, as most are roasted with a starch coating. Nuts should only be used as nut flour, in recipes, until diarrhea has subsided.
+Filberts (hazelnuts) | Legal | Nuts sold in mixtures are not allowed, as most are roasted with a starch coating. Nuts should only be used as nut flour, in recipes, until diarrhea has subsided.
 Fish | Legal | Fresh and frozen are allowed as long as nothing has been added during processing; check the labels carefully.
-Flax seed | Illegal | See Flax seed and flax seed oil within the Knowledge Base section.
-Flax seed oil | Legal | See Flax seed and flax seed oil within the Knowledge Base section
+Flax seed | Illegal | See Flax seed and flax seed oil within the Knowledge Base section of BTVC website
+Flax seed oil | Legal | See Flax seed and flax seed oil within the Knowledge Base section of BTVC website.
 Flour | Illegal  
-FOS | Illegal | Also known as fructooligosaccharides. See, FOS in the Knowledge Base section.
+FOS | Illegal | Also known as fructooligosaccharides. See, FOS in the Knowledge Base section of BTVC website.
 Fowl | Legal | All types including turkey, chicken, duck, goose, pheasant, pigeon etc
 Frozen orange juice (concentrated) | Illegal | If orange juice is just frozen and has no additives then it is legal, however frozen orange juice is normally concentrated before freezing and the process to concentrate it makes it illegal see frozen orange juice processing on BTVC website)
 Fructose (granulated) | Illegal  
@@ -170,11 +171,10 @@ Gorgonzola cheese | Legal | May be used occasionally.
 Gouda cheese | Legal | May be used occasionally.
 Granulated glucose | Illegal | It is known to contains other sugars in addition to glucose.
 Grape juice, white or dark | Legal | White or dark grape juice is allowed. We use Welch's bottled grape juice, as it has been checked out and does not have sugar added. Avoid frozen grape juice, it usually has sugar added. Juice should be diluted with water before drinking.
-Grapefruit | Legal | Fresh
+Grapefruit | Legal  
 Grapefruit juice | Legal | Only legal if fresh. Frozen, or canned grapefruit juice is not allowed. Juice should be diluted with water before drinking.
 Grapes | Legal  
 Grapeseed oil | Legal  
-Green bean | Legal | Aka: string bean
 Green tea | Legal | Limited to 2 cups per day.
 Gruyere cheese | Legal  
 Guar gum | Illegal  
@@ -185,15 +185,16 @@ Havarti cheese | Legal | May be used freely.
 Hazelnuts (filberts) | Legal | Nuts sold in mixtures are not allowed, as most are roasted with a starch coating. Nuts should only be used as nut flour, in recipes, until diarrhea has subsided.
 Hemp seed, hemp protein powder | Illegal  
 HN-Zyme | Legal  
-Homemade yogurt | Legal | See BTVC website
+Homemade yoghurt | Legal | See BTVC website
 Honey | Legal  
 Horseradish sauce | Legal | If homemade, if manufactured only if you know they have not added illegals
 Hot dogs | Illegal | Commercially produced hotdogs will normally be illegal but see BTVC website for a legal recipe on SCDiet by Marilyn
-Hydrolyzed protein aka: MSG | Illegal | Regardless of whether it is SCD™ legal or not, we should all try to avoid it. MSG can be a potent neurotoxin.
+Hydrolyzed protein aka: MSG | Illegal | Regardless of whether it is SCD legal or not, we should all try to avoid it. MSG can be a potent neurotoxin.
 Ice cream | Illegal | Commercially prepared ice cream is not allowed. However, there are many wonderful recipes for homemade ice cream.
 Inositol | Illegal | Inositol is a sugar alcohol. Sugar alcohols will feed bacteria and that is something we do not want to do. Sugar alcohols generally cause diarrhea but small amounts in supplements are ok - Elaine
 Inulin | Illegal | Inulin is a FOS and is illegal
 Iron supplements | Illegal | Please do not get vitamins with iron; they encourage all kinds of infections especially in the gut, and iron has had much research done on it re other diseases. No oral iron if you can help it. Just eat the liver pate and if you like liver, eat it at least once a week.
+Isoglucose | Illegal | It is a new sweetner likely to be used in many products in future.
 Jaggery aka: gur | Illegal  
 Jalapenos | Legal  
 Jicama | Illegal  
@@ -202,28 +203,29 @@ Kala chana - small chickpea w/ brown skin | Illegal | Aka: chickpea, ceci bean, 
 Kale | Legal  
 Kefir | Illegal | See BTVC website.
 Ketchup | Illegal | Commercially prepared ketchup contains sugar and is not allowed. See the gourmet section of the book, Breaking the Vicious Cycle for a ketchup recipe.
-Kidney beans - aka: red bean, rajma dal | Warning | (All Types) May be tried when symptom free. Dried legumes must be prepared according to the instructions in the book, Breaking the Vicious Cycle.
+Kidney beans | Legal | (All Types) May be tried when symptom free. Dried legumes must be prepared according to the instructions in the book, Breaking the Vicious Cycle.
 Kimchi | Legal | See BTVC website.
 Kiwi fruit | Legal  
 Kohlrabi | Illegal | See BTVC website.
 Konjac | Illegal | Also called  konjaku, konnyaku, or the konnyaku potato, or elephant yam. The dried corm of the konjac plant contains around 40% glucomannan gum. See Miracle Noodles.
-Kudzu (or kuzu) | Illegal | It is a mucilaginous herb. Mucilaginous herbs are loaded with starch. This starch is food for the pathogens that the SCD™ is designed to starve out.
+Kudzu (or kuzu) | Illegal | It is a mucilaginous herb. Mucilaginous herbs are loaded with starch. This starch is food for the pathogens that the SCD is designed to starve out.
 Kumquats | Legal  
 KyoGreen powder | Illegal  
 L-Theanine | Legal | It is an amino acid, as long as its pure without illegal binders, etc its legal, as with any new food go slow introducing it. - Seth
 Lactaid milk | Illegal | The rate of flow of galactose to the liver when one drinks lactose hydrolyzed milk is high. With lactose hydrolyzed milk, you are ingesting the two sugars: glucose and galactose at the same time. Note: Lactaid Milk is Lactose Hydrolyzed Milk
 Lactose Hydrolyzed Milk | Illegal | The rate of flow of galactose to the liver when one drinks lactose hydrolyzed milk is high. With lactose hydrolyzed milk, you are ingesting the two sugars: glucose and galactose at the same time. Note: Lactaid Milk is Lactose Hydrolyzed Milk
 Lamb | Legal | Fresh and frozen are allowed as long as nothing has been added during processing; check the labels carefully.
-Lecithin | Legal | Derived from soy (illegal). There is plenty of good lecithin in egg yolks, and Elaine sees no particular need to take it outside of a whole food.
+Lecithin | Warning | Derived from soy (illegal). There is plenty of good lecithin in egg yolks, and Elaine sees no particular need to take it outside of a whole food.
 Leek | Legal  
 Lemons | Legal  
 Lentils | Legal | Dried legumes must be prepared according to the instructions in the book, Breaking the Vicious Cycle.
 Lettuce | Legal | All varieties of lettuce are legal.
-Licorice | Illegal | Licorice is both a demulcent and a laxative. For more info on demulcents see, Licorice and Demulcents
+Licorice | Illegal | Licorice is both a demulcent and a laxative. For more info on demulcents see Demulcents in Knowledge Base section of BTVC website.
 Lignin | Illegal | Grinding lignin and tough stuff does not prevent certain microorganisms from thanking you for chewing up their nutrition. The little buggers then respond by eating faster and making more babies and toxins.
 Lima beans | Legal | Dried or fresh are permitted. Dried legumes must be prepared according to the instructions in the book, Breaking the Vicious Cycle.
 Limburger cheese | Legal | May be used occasionally.
 Limes | Legal  
+Liquers | Illegal  
 Liquid clorychlorophyll | Illegal  
 Macadamia nuts | Legal  
 Macadamia oil | Legal | Makes the best tasting mayo - Deborah.  Withstands heat well
@@ -236,19 +238,20 @@ Mangoes | Legal
 Mannitol | Illegal | Sorbitol, mannitol, and xylitol are all sugar alcohols and are not SCD legal. They fall under the category of indigestible carbs and sugars, and so allow companies to label things 'sugar free', even though they are providing nutrition to the bacteria that live in your digestive tract.
 Maple syrup | Illegal | Maple syrup is a disaccharide.
 Margarine | Illegal  
-Marshmallow root | Illegal | It is a mucilaginous herb. Mucilaginous herbs are loaded with starch. This starch is food for the pathogens that the SCD is designed to starve out.
+Marshmallow | Illegal | It is a mucilaginous herb. Mucilaginous herbs are loaded with starch. This starch is food for the pathogens that the SCD is designed to starve out.
 Mastic gum | Illegal  
 Mead - homemade | Legal | If homemade and ingredients are honey and yeast, commercial is likely to have sugar added and is illegal
 Meats | Legal | All fesh or frozen meats with no additives or processing are legal including beef, lamb, pork, liver, kidney, oxtail and tongue
 Meats - canned | Illegal  
-Meats - processed | Illegal  
+Meats - processed | Illegal | Most have additives such as starch, lactose and sugar e.g. hot dogs, turkey loaf, spiced ham, bologna, smoked meats.
 Melatonin | Illegal  
-Melons - all types | Legal  
+Melon | Legal | All types are Legal
 Milk | Illegal | Fluid milk of any kind is not permitted.
 Millet | Illegal  
-Miracle Nodels | Illegal | Made of glucomannan, a  water-soluble polysaccharide.  Glucommanan is obtained from the root of an Asian plant called konjac (full name Amorphophallus konjac). It has been nicknamed the elephant yam, and also called konjaku, konnyaku, or the konnyaku potato.
+Miracle Noodels | Illegal | Made of glucomannan, a  water-soluble polysaccharide.  Glucommanan is obtained from the root of an Asian plant called konjac (full name Amorphophallus konjac). It has been nicknamed the elephant yam, and also called konjaku, konnyaku, or the konnyaku potato.
 Miso | Illegal  
 Molasses | Illegal  
+Molo-cure | Illegal | The main constituent of Molo-cure is aloe. Aloe is not SCD compliant as it contains mucilaginous polysaccharides as well as increasing the release of tumor necrosis factor which is associated with IBD inflammation and increased immune stimulation.
 Montery Jack cheese | Legal | May be used occasionally.
 Mozzarella cheese | Illegal  
 MSG | Illegal | Regardless of whether it is SCD legal or not, we should all try to avoid it. MSG can be a potent neurotoxin.
@@ -295,15 +298,16 @@ Pecans | Legal | Nuts sold in mixtures are not allowed, as most are roasted with
 Pectin | Illegal | It is a polysaccharide which, in the presence of acid and sugar, gels. It is used as a thickener in jams, and occurs naturally in some fruit, like apples. In apples, it's mostly in the peel, and for someone beginning the diet, you normally wouldn't get too much from eating an apple, because you'd peel it. Pectin as an added ingredient is not legal, as it is a complex sugar.
 Peppermint tea | Legal | Some brands out there put in natural flavourings which would make them illegal, so check the ingredients carefully - Charlene
 Peppers / capsicum | Legal | Green, yellow, and red peppers are permitted. Also jalapeno peppers, habanera peppers, chili peppers, poblano peppers, relleno peppers, etc. are legal.
-Persimmons | Legal  
 Peptizyde | Legal  
-Pickels, dill | Legal | Dill pickles are legal as long as they do not contain illegal ingredients; read the labels carefully. See BTVC website for a recipe.
+Persimmons | Legal  
+Phosphatidylcholine | Legal | Another name for lecithin which is legal. Eggs have a huge amount of this but if you are not eating eggs, perhaps a bit of supplement is fine. - Elaine
+Pickles (dill) | Legal | Dill pickles are legal as long as they do not contain illegal ingredients; read the labels carefully. See BTVC website for a recipe.
 Pine nuts | Legal | They are very hard to digest and even grinding them for pesto doesn't make them any easier on your gut. May be tried in small amounts after symptoms have subsided.
 Pineapple | Legal  
-Pineapple juice | Legal | fall 2010 update: The Dole 100% Pineapple juice in the can now adds Vitamins A, C and E. The Vitamin A is bound with cornstarch.
+Pineapple juice | Illegal | fall 2010 update: The Dole 100% Pineapple juice in the can now adds Vitamins A, C and E. The Vitamin A is bound with cornstarch.
     old info: Fresh pineapple juice that does not have sugar added is allowed. We use Dole's unsweetened pineapple juice in the can, as it has been checked out and does not have sugar added. Juice should be diluted with water before drinking.
 Pinto beans | Illegal | Even after soaking they have the wrong kind of starch
-Pistachio nuts | Legal | They are legal, but the skins can be really tough for newbies. And don't get the pink dyed ones, or the salted ones because they can have starch added to them. You can get unsalted, unroasted pistachios at the health food store and then roast them yourself. For instructions see, Pistachio Nuts
+Pistachio nuts | Legal | They are legal, but the skins can be really tough for newbies. And don't get the pink dyed ones, or the salted ones because they can have starch added to them. You can get unsalted, unroasted pistachios at the health food store and then roast them yourself. For instructions see, Pistachio Nuts in Knowledge Base section of BTVC website.
 Plantains | Illegal | They contain too much starch.
 Plums | Legal  
 Polysorbate 80 | Illegal | See BTVC website
@@ -322,13 +326,13 @@ Processed cheese | Illegal | See the appendix of the book, Breaking the Vicious 
 Protein powder | Illegal | See BTVC website
 Provolone cheese | Legal | Although not listed with the other cheeses on page 140 of Breaking the Vicious Cycle, provolone cheese is legal.
 Prunes | Legal  
-Psyllium husks - aka: ispaghula | Illegal | They are loaded with cellulose and lignin which some bacteria thrive on. We accept that the cellulose in vegetables and fruit can be handled OK but a concentrated form such as husks would not be in order.
+Psyllium husks | Illegal | They are loaded with cellulose and lignin which some bacteria thrive on. We accept that the cellulose in vegetables and fruit can be handled OK but a concentrated form such as husks would not be in order.
 Pumpkin | Legal | Fresh pumpkin is legal, canned pumpkin is not allowed. Butternut squash may be used as a substitute for pumpkin in baking.
-Pumpkin (canned | Illegal | Canned pumpkin is illegal. Butternut squash may be substituted for pumpkin in baking.
+Pumpkin (canned) | Illegal | Canned pumpkin is illegal. Butternut squash may be substituted for pumpkin in baking.
 Quinoa | Illegal | Since Quinoa is 60% starch, it is very illegal.
-Raisins | Legal | Preferably dark
-Raw cashews | Legal | Mixes not allowed
-Rhubarb | Legal | Try them cautiously.
+Quorn | Illegal  
+Raisins | Legal | Try them cautiously.
+Rhubarb | Legal  
 Rice | Illegal | Both brown and white rice are illegal.
 Rice bran | Illegal | Except as a supplement filler as it is mainly oil. If one is taking a supplement which has proven to be efficacious, then the small amount of filler within the supplement will probably not have an adverse effect. - Elaine.
 Rice flour | Illegal  
@@ -358,31 +362,31 @@ Shellfish | Legal | Fresh and frozen are allowed as long as nothing has been add
 Sherry | Illegal  
 Silica | Legal | (supplement ingredient)
 Silicon dioxide | Legal | (supplement ingredient)
-Slippery elm | Illegal | It is a mucilaginous herb. Mucilaginous herbs are loaded with starch. This starch is food for the pathogens that the SCD™ is designed to starve out.
+Slippery elm | Illegal | It is a mucilaginous herb. Mucilaginous herbs are loaded with starch. This starch is food for the pathogens that the SCD is designed to starve out.
 Smoked meats | Warning | Unless you know with certainty that no sugar has been added during the smoking process, they are not permitted.
 Sodium benzoate | Legal | (supplement ingredient)
 Sodium starch glycinate | Illegal  
 Sorbitol | Illegal | Sorbitol, mannitol, and xylitol are all sugar alcohols and are not SCD legal. They fall under the category of indigestible carbs and sugars, and so allow companies to label things 'sugar free', even though they are providing nutrition to the bacteria that live in your digestive tract.
 Sour cream | Illegal  
-Soy | Illegal | See BTVC website
-Soy lecithin | Illegal  
-Soy sauce / tamari | Illegal | Derived from soy (illegal). There is plenty of good lecithin in egg yolks, and Elaine sees no particular need to take it outside of a whole food. Also see Carlsons fish oil on BTVC website.
+Soy | Illegal | See Soy in the Knowledge Base section of BTVC website
+Soy lecithin | Illegal | Derived from soy (illegal). There is plenty of good lecithin in egg yolks, and Elaine sees no particular need to take it outside of a whole food. Also see Carlsons fish oil in the Knowledge Base section of BTVC website.
+Soy sauce | Illegal | Soy sauce is a fermented soy product and also contains wheat so it is illegal.
 Soybean milk | Illegal  
 Soybean oil | Illegal  
 Soybeans | Illegal  
 Spearmint Tea | Legal  
 Spelt | Illegal  
-Spices | Illegal | Spices of all kinds may be used, but avoid spice mixtures; buy spices separately.
+Spices | Legal | Spices of all kinds may be used, but avoid spice mixtures; buy spices separately.
 Spinach | Legal  
 Spirulina | Illegal | We do not use algae (Spirulina) because IBD involves the immune system and can aggravate an already disturbed immune system.
 Splenda | Illegal | There are several reasons why it is illegal, see BTVC website
 Split peas | Legal | Dried legumes must be prepared according to the instructions in the book, Breaking the Vicious Cycle.
-Sprouted grain bread | Illegal | Ezekiel bread, for instance
+Sprouted grain bread | Illegal  
 Squash | Legal | Both winter and summer squashes are legal.
-Stevia | Illegal | Its molecular structure resembles a steroid and the effects are unknown. See, BTVC website
+Stevia | Illegal | Its molecular structure resembles a steroid and the effects are unknown. See Knowledge Base section of BTVC website.
 Stilton cheese | Legal | May be used occasionally.
 String beans / green beans | Legal  
-Sucralose | Illegal | There are several reasons why it is illegal, see BTVC website.
+Sucralose | Illegal | There are several reasons why it is illegal, see Knowledge Base section of BTVC website.
 Sulphates | Legal | When a fruit such as peaches (dried) and coconut is sulphated, it means it has been exposed to sulphur to keep the color from darkening. Some people are allergic to sulphated products but most of us are not bothered by them.
 Sunflower oil | Legal  
 Swede - aka: rutabaga | Legal | Another name for rutabaga
@@ -390,8 +394,8 @@ Sweet potatoes | Illegal
 Swiss cheese | Legal | May be used freely.
 Tabasco sauce | Legal | Only the original red Tabasco sauce, labeled "McIlhenny Company Tabasco Brand Pepper Sauce" is legal but as with all manufactured products check the ingredients. The other Tabasco styles all have sugars and gums added.
 Tagatose | Illegal  
-Tamari | Warning | It is made from soy
-Tamarind | Illegal | See BTVC website
+Tamari | Illegal | It is made from soy
+Tamarind | Illegal | See Knowledge Base section of BTVC website.
 Tangerines | Legal  
 Tapioca | Illegal | It is a starch, therefore illegal.
 Tapioca flour | Illegal  
@@ -404,7 +408,7 @@ Thyme | Legal
 Tofu | Illegal | It is made from soy
 Tofutti cheese | Illegal  
 Tomato | Legal  
-Tomato juice (canned) | Legal | Should only have salt added. Also see BTVC website
+Tomato juice (canned) | Legal | Should only have salt added. Also see Knowledge Base section of BTVC website.
 Tomato paste (canned) | Illegal  
 Tomato puree (canned) | Illegal  
 Tomato sauce (canned) | Illegal  
@@ -412,10 +416,10 @@ Triticale | Illegal
 Turbinado | Illegal | It is liquid cane sugar, therefore it is illegal.
 Turnips | Illegal | In the most recent printing of BTVC (Ninth Printing - May 2002), turnips were moved from the 'allowed' list to the 'not allowed' list.
 V8 juice | Illegal | It has tomato paste listed as an ingredient. Elaine has listed tomato paste as being illegal. It is also made from concentrate and has added sugar.
-Vanillin | Legal | But not in concentrated form see BTVC website
+Vanillin | Legal | But not in concentrated form. See Knowledge Base section of BTVC website.
 Vegetable stearate | Legal | I believe that stearate is always a fat (stearic acid) so vegetable stearate would be a fat from some vegetable like coconut, etc. -- Elaine
 Vegetables (canned) | Illegal | Canned vegetables are not permitted; they must either be fresh or frozen.
-Vinegar | Legal | Red and white wine vinegar also white and cider vinegars are allowed but check the label for added illegals. Balsamic vinegar is not allowed as it has added sugar. However you can make your own legal balsamic vinegar substitute see scdrecipe
+Vinegar | Legal | Red and white wine vinegar also white and cider vinegars are allowed but check the label for added illegals. Balsamic vinegar is not allowed as it has added sugar. However you can make your own legal balsamic vinegar substitute see scdrecipe.com
 Vodka | Legal | Only have it occasionally.
 Walnut oil | Legal | Doesn't withstand heat very well
 Walnuts | Legal | Nuts sold in mixtures are not allowed, as most are roasted with a starch coating. Nuts should only be used as nut flour, in recipes, until diarrhea has subsided.
@@ -425,11 +429,11 @@ Watercress | Legal
 Watermelon | Legal  
 Wheat | Illegal  
 Wheat germ | Illegal  
-Whisky | Legal | Only have it occasionally
+Whisky | Legal | Only have it occasionally.
 Wine | Legal | Very dry wine is legal. See, Wines for more information on dry wines.
 Xanthum gum | Illegal  
 Xylitol | Illegal | Sorbitol, mannitol, and xylitol are all sugar alcohols and are not SCD legal. They fall under the category of indigestible carbs and sugars, and so allow companies to label things 'sugar free', even though they are providing nutrition to the bacteria that live in your digestive tract.
 Yams | Illegal  
-Yoghurt (commercial) | Illegal | Eating commercial yoghurt is not permitted. Commercial yoghurt may be used as a starter for making homemade yogurt. For directions for making yoghurt, see BTVC website.
-Yoghurt, home made | Legal | See, yoghurt in the BTVC Knowledge Base section for instructions on how to make legal yoghurt.
+Yoghurt (commercial) | Illegal | Eating commercial yoghurt is not permitted. Commercial yoghurt may be used as a starter for making homemade yoghurt. For directions for making yoghurt, see Knowledge Base section of BTVC website.
+Yoghurt (homemade) | Legal | See, yoghurt in the Knowledge Base section of BTVC website for instructions on how to make legal yoghurt.
 Yucca root | Illegal  
