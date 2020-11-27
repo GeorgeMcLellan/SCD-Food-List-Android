@@ -1,5 +1,5 @@
 package com.development.georgemcl.scdgapsapp.objects
-
+/*
 object FoodList {
     val foods: List<Food> = listOf(
 //        Food("Acidophilus milk, commercial", FoodAllowed.Avoid, FoodGroup.Dairy),
@@ -420,7 +420,7 @@ object FoodList {
         Food("String beans / green beans", FoodAllowed.Legal, FoodGroup.Vegetables),
         Food("Sucralose", FoodAllowed.Illegal, FoodGroup.Sweeteners, "There are several reasons why it is illegal, see Splenda in Knowledge Base section of BTVC website."),
 //        Food("Sugar", FoodAllowed.Avoid,	FoodGroup.Sweeteners, "Aka: table sugar, white sugar, refined sugar, evaporated cane juice."),
-        Food("Sulphates", FoodAllowed.Legal, FoodGroup.Miscellaneous, "When a fruit such as peaches (dried) and coconut is sulphated, it means it has been exposed to sulphur to keep the color from darkening. Some people are allergic to sulphated products but most of us are not bothered by them."),
+        Food("Sulphates", FoodAllowed.Legal, FoodGroup.Miscellaneous, "When a fruit such as peaches (dried) and cococnut is sulphated, it means it has been exposed to sulphur to keep the color from darkening. Some people are allergic to sulphated products but most of us are not bothered by them."),
         Food("Sunflower oil", FoodAllowed.Legal, FoodGroup.FatsAndOils),
         Food("Swede / rutabaga", FoodAllowed.Legal, FoodGroup.Vegetables),
         Food("Sweet potatoes", FoodAllowed.Illegal, FoodGroup.Starch),
@@ -488,3 +488,4 @@ object FoodList {
         Food("Yucca root", FoodAllowed.Illegal, FoodGroup.Miscellaneous))
 }
 
+*/
