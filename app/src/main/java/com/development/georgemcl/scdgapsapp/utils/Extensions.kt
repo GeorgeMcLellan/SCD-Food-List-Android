@@ -1,5 +1,6 @@
 package com.development.georgemcl.scdgapsapp.utils
 
+import com.development.georgemcl.scdgapsapp.objects.FoodAllowed
 import com.development.georgemcl.scdgapsapp.objects.FoodGroup
 
 fun FoodGroup.friendlyName(): String {
@@ -26,4 +27,12 @@ fun FoodGroup.friendlyName(): String {
 
 fun foodGroupFriendlyName(foodGroup: FoodGroup): String {
     return foodGroup.friendlyName()
+}
+
+fun foodAllowedFriendlyName(foodAllowed: FoodAllowed): String {
+    return when(foodAllowed) {
+        FoodAllowed.ALLOWED -> "Allowed"
+        FoodAllowed.NOT_ALLOWED -> "Not Allowed"
+        FoodAllowed.Warning -> "Warning"
+    }
 }

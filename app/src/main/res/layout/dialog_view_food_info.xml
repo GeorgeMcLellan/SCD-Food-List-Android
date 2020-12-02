@@ -43,7 +43,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 android:textSize="18sp"
                 android:textStyle="italic"
-                android:text="@{food.allowed.toString()}"
+                android:text="@{ExtensionsKt.foodAllowedFriendlyName(food.allowed)}"
                 allowedTextColor="@{food.allowed}"
                 />
 

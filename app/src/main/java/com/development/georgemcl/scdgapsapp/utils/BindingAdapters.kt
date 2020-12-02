@@ -13,9 +13,9 @@ object BindingAdapters {
     @BindingAdapter("foodBackgroundColor")
     fun loadItemImage(view: View, allowed: FoodAllowed) {
         view.backgroundTintList = ColorStateList.valueOf(ContextCompat.getColor(view.context, when(allowed) {
-            FoodAllowed.Legal -> R.color.greenTransparent
+            FoodAllowed.ALLOWED -> R.color.greenTransparent
             FoodAllowed.Warning -> R.color.yellowTransparent
-            FoodAllowed.Illegal -> R.color.redTransparent
+            FoodAllowed.NOT_ALLOWED -> R.color.redTransparent
         }))
     }
 
@@ -23,9 +23,9 @@ object BindingAdapters {
     @BindingAdapter("allowedTextColor")
     fun setAllowedTextColor(view: TextView, allowed: FoodAllowed) {
         view.setTextColor(ColorStateList.valueOf(ContextCompat.getColor(view.context, when(allowed) {
-            FoodAllowed.Legal -> R.color.greenTextColor
+            FoodAllowed.ALLOWED -> R.color.greenTextColor
             FoodAllowed.Warning -> R.color.yellowTextColor
-            FoodAllowed.Illegal -> R.color.redTextColor
+            FoodAllowed.NOT_ALLOWED -> R.color.redTextColor
         })))
     }
 }

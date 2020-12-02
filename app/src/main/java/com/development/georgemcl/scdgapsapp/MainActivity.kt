@@ -10,8 +10,8 @@ import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.development.georgemcl.scdgapsapp.databinding.ActivityMainBinding
 import com.development.georgemcl.scdgapsapp.databinding.DialogViewFoodInfoBinding
+import com.development.georgemcl.scdgapsapp.objects.AIPFoodList
 import com.development.georgemcl.scdgapsapp.objects.Food
-import com.development.georgemcl.scdgapsapp.objects.FoodList
 import com.development.georgemcl.scdgapsapp.utils.KeyboardUtil
 import timber.log.Timber
 
@@ -19,11 +19,9 @@ class MainActivity: AppCompatActivity(), FoodSelectedListener {
 
     lateinit var binding: ActivityMainBinding
 
-    private val foodsAdapter by lazy {
-        FoodsRecyclerViewAdapter(this)
-    }
+    private val foodsAdapter = FoodsRecyclerViewAdapter(this)
 
-    private val foods = FoodList.foods
+    private val foods = AIPFoodList.foods.sortedBy { it.name }
     private var filterText: String = ""
     private val filteredFoods: List<Food> get() = if (filterText.isNotBlank()) {
         foods.filter { it.name.contains(filterText, ignoreCase = true) }
@@ -43,29 +41,9 @@ class MainActivity: AppCompatActivity(), FoodSelectedListener {
         val toprint = foods.map { "${it.name} | ${it.allowed} ${if (it.description.isNotEmpty()) "|" else ""} ${it.description}"  }
         for (food in toprint) {
             Timber.d(food)
-
         }
-
-//        binding.mainToolbarSearch.apply {
-//            layoutTransition.enableTransitionType(LayoutTransition.CHANGING)
-//            setOnQueryTextListener(object: SearchView.OnQueryTextListener {
-//                override fun onQueryTextSubmit(query: String?): Boolean {
-//                    KeyboardUtil.hideSoftKeyboard(this@MainActivity)
-//                    return false
-//                }g
-//
-//                override fun onQueryTextChange(newText: String?): Boolean {
-//                    filterText = newText ?: ""
-//                    syncRecyclerViewAdapter()
-//                    return false
-//                }
-//            })
-//            setOnCloseListener {
-//                KeyboardUtil.hideSoftKeyboard(this@MainActivity)
-//                false
-//            }
-//        }
-//        Timber.d("list ${foodsAdapter.currentList}")
+//        val foodNames = foods.map { it.name }
+//        Timber.d(foodNames.groupingBy { it }.eachCount().filter { it.value > 1 }.toString())
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
@@ -73,9 +51,7 @@ class MainActivity: AppCompatActivity(), FoodSelectedListener {
         val searchView = menu?.findItem(R.id.menu_main_search_view)?.actionView as SearchView
         searchView.apply {
             setOnSearchClickListener {
-                Timber.i("click")
                 supportActionBar?.setDisplayShowTitleEnabled(false)
-
             }
             setOnQueryTextListener(object: SearchView.OnQueryTextListener {
                 override fun onQueryTextSubmit(query: String?): Boolean {
