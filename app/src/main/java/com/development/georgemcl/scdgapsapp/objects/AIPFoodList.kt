@@ -7,7 +7,7 @@ object AIPFoodList {
     val foods: List<Food> = listOf(
 
         /**
-         * aLLOWED
+         * ALLOWED
          */
 
         Food("Artichoke", FoodAllowed.ALLOWED, FoodGroup.Vegetables),
@@ -75,7 +75,6 @@ object AIPFoodList {
         Food("Banana", FoodAllowed.ALLOWED, FoodGroup.Fruit),
         Food("Berries", FoodAllowed.ALLOWED, FoodGroup.Fruit),
         Food("Cherry", FoodAllowed.ALLOWED, FoodGroup.Fruit),
-        Food("Citrus", FoodAllowed.ALLOWED, FoodGroup.Fruit),
         Food("Coconut", FoodAllowed.ALLOWED, FoodGroup.Fruit),
         Food("Date", FoodAllowed.ALLOWED, FoodGroup.Fruit),
         Food("Fig", FoodAllowed.ALLOWED, FoodGroup.Fruit),
@@ -90,6 +89,8 @@ object AIPFoodList {
         Food("Pineapple", FoodAllowed.ALLOWED, FoodGroup.Fruit),
         Food("Pomegranate", FoodAllowed.ALLOWED, FoodGroup.Fruit),
         Food("Watermelon", FoodAllowed.ALLOWED, FoodGroup.Fruit),
+
+        Food("Grapefruit", FoodAllowed.ALLOWED, FoodGroup.Fruit),
 
         Food("Blackberry", FoodAllowed.ALLOWED, FoodGroup.Fruit),
         Food("Blueberry", FoodAllowed.ALLOWED, FoodGroup.Fruit),
@@ -130,6 +131,8 @@ object AIPFoodList {
         Food("Thyme", FoodAllowed.ALLOWED, FoodGroup.Herbs),
         Food("Turmeric", FoodAllowed.ALLOWED, FoodGroup.Herbs),
 
+        Food("Dandelion", FoodAllowed.ALLOWED, FoodGroup.Herbs),
+
         Food("Lemon balm", FoodAllowed.ALLOWED, FoodGroup.Herbs),
         Food("Chamomile", FoodAllowed.ALLOWED, FoodGroup.Herbs),
         Food("Chervil", FoodAllowed.ALLOWED, FoodGroup.Herbs),
@@ -153,6 +156,7 @@ object AIPFoodList {
         Food("Lamb", FoodAllowed.ALLOWED, FoodGroup.AnimalProteins),
         Food("Shellfish", FoodAllowed.ALLOWED, FoodGroup.AnimalProteins),
         Food("Pork", FoodAllowed.ALLOWED, FoodGroup.AnimalProteins),
+        Food("Bacon", FoodAllowed.ALLOWED, FoodGroup.AnimalProteins),
         Food("Turkey", FoodAllowed.ALLOWED, FoodGroup.AnimalProteins),
         Food("Venison", FoodAllowed.ALLOWED, FoodGroup.AnimalProteins),
 
@@ -325,7 +329,7 @@ object AIPFoodList {
         Food("Sunflower seed", FoodAllowed.NOT_ALLOWED, FoodGroup.NutsAndSeeds),
         Food("Walnut", FoodAllowed.NOT_ALLOWED, FoodGroup.NutsAndSeeds),
 
-        Food("Allspice", FoodAllowed.NOT_ALLOWED, FoodGroup.Spices),
+        Food("Allspice", FoodAllowed.ALLOWED, FoodGroup.Spices),
         Food("Anise", FoodAllowed.NOT_ALLOWED, FoodGroup.Spices),
 
         Food("Caraway", FoodAllowed.NOT_ALLOWED, FoodGroup.Spices),
