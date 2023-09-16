@@ -11,6 +11,7 @@
         android:theme="@style/AppTheme">
         <activity
             android:name="com.development.georgemcl.scdgapsapp.MainActivity"
+            android:exported="true"
             android:label="@string/main_activity_title">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
